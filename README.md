@@ -2,6 +2,16 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=KyungRok_Mun&fontSize=90&animation=twinkling" />	
 </div>
 
+<div align=center>
+	<p>
+	-협업하고 소통하는
+	</p>
+	<p>
+	-주니어 백엔드개발자입니다.
+	</p>
+</div>
+<br>
+
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 <h4 align="center"> Techs that I've used at least once</h4>
 <div align="center">
@@ -32,4 +42,11 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br><br><br>
+
+
+
+
+
+
 
